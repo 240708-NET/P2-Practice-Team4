@@ -9,3 +9,5 @@
 
 
 "Good Bye!"
+"Tuesday and"
+"Welcome Wednesday!"
