@@ -9,3 +9,5 @@ The green fish splashes
 
 
 "Good Bye!"
+"Tuesday and"
+"Welcome Wednesday!"
