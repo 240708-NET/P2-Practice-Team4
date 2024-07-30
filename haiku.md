@@ -5,9 +5,9 @@ The green fish splashes
 
 
 
-
-
-
+"Haiku Haiku Haiku"
+"Haiku Haiku Haiku Haiku Haiku"
+"Haiku Haiku Haiku"
 "Good Bye!"
 "Tuesday and"
 "Welcome Wednesday!"
